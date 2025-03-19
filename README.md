@@ -1,7 +1,3 @@
-Here's a well-structured and captivating **README** for your GitHub repository:  
-
----
-
 # ✈️ British Airline Review Analysis  
 
 ## 📌 Overview  
