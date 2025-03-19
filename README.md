@@ -1,14 +1,17 @@
 # ✈️ British Airline Review Analysis  
 
-## 📌 Overview  
-This project analyzes **800 British Airline reviews** to uncover customer sentiment, key discussion topics and trends over time. Using **sentiment analysis, topic modeling, and word cloud**, we extract meaningful insights to understand passenger experiences better.  
+## 📌 Overview
+Ever wondered what passengers really think about British Airlines? We scraped 800 reviews from Skytrax, a leading airline review platform, to uncover hidden trends, customer sentiments and key topics shaping passenger experiences.
 
 ---
 
 ## 📊 Data Set  
-The dataset consists of **800 reviews** from British airline passengers, including sentiment labels, review timestamps, and ratings.  
+The dataset consists of 800 web-scraped British Airline reviews, including sentiment labels, review timestamps and ratings.
 
----
+📌 Data Source:
+
+Scraped from Skytrax using BeautifulSoup 
+Cleaned using Pandas & Regex to remove duplicates, irrelevant text and inconsistencies
 
 ## 🔍 Key Insights  
 
