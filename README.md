@@ -1,7 +1,7 @@
 # ✈️ British Airline Review Analysis  
 
 ## 📌 Overview
-Ever wondered what passengers really think about British Airlines? We scraped 800 reviews from Skytrax, a leading airline review platform, to uncover hidden trends, customer sentiments and key topics shaping passenger experiences.
+Ever wondered what passengers really think about British Airlines? I scraped 800 reviews from Skytrax, a leading airline review platform, to uncover hidden trends, customer sentiments and key topics shaping passenger experiences.
 
 ---
 
