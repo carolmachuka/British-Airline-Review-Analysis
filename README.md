@@ -10,7 +10,7 @@ The dataset consists of 800 web-scraped British Airline reviews, including senti
 
 📌 Data Source:
 
-Scraped from Skytrax using BeautifulSoup 
+Scraped from Skytrax using BeautifulSoup, 
 Cleaned using Pandas & Regex to remove duplicates, irrelevant text and inconsistencies
 
 ## 🔍 Key Insights  
